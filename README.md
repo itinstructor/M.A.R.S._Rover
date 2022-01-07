@@ -7,8 +7,8 @@ The 4tronix Mars Rover is loosely based on the Curiosity and Mars 2020 rovers fr
 - rover_gui_sonar.py: Python Tkinter remote control program with ultrasonic sensor ranging
 
 ### 4tronix Rover Libraries
-- rover.py: Rover library from 4tronix, must be in the program folder
-- pca9685.py: Rover library from 4tronix, must be in the program folder
+- rover.py: Rover library from 4tronix - must be in the program folder
+- pca9685.py: Rover library from 4tronix - must be in the program folder
 
 ### Changes
 - 01/01/2021: The robot was designed for a Raspberry Pi Zero. I put in a Raspberry Pi Zero 2 W. It takes more voltage than the 4 onboard AA rechargeble batteries can put out. I added a small phone charger battery directly to the Pi.
