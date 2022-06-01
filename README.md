@@ -16,7 +16,7 @@ The 4tronix Mars Rover is loosely based on the Curiosity and Mars 2020 rovers fr
 - 01/01/2021: The robot was designed for a Raspberry Pi Zero. I put in a Raspberry Pi Zero 2 W. It takes more voltage than the 4 onboard AA rechargeble batteries can put out. I added a small phone charger battery directly to the Pi.
 
 ### Purpose
-I am an Information Technology Instructor at Western Nebraska Community College. I teach Information Technology Technical Support, CyberSecurity and Computer Science.
+I am an Information Technology Instructor at Western Nebraska Community College. I teach Information Technology, CyberSecurity and Computer Science.
 Who can ever have enough robots? Who doesn't want their own MARS Rover?
 
 This repository is for my personal projects with the M.A.R.S. Rover.
